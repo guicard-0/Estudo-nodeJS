@@ -10,5 +10,5 @@ const client = {
 module.exports = {
     devArea,
     client,
-    
+
 }

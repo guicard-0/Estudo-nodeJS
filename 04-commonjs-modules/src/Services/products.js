@@ -4,7 +4,7 @@ async function getFullname(codeId, productName) {
 }
 
 async function getProductLabel(productLabel) {
-    console.log("Product: " + productLabel);   
+    console.log("Category: " + productLabel);   
 }
 
 module.exports = {
